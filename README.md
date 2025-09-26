@@ -1,10 +1,17 @@
-# Windows Event Log Analyzer (Demo)
+# windows-event-log-analyzer
 
-Purpose: Demo script to parse Windows Event Logs and summarize key events for monitoring and auditing.
+## Purpose
+Parses Windows Event Logs to identify key events and anomalies.
 
-Files:
-- sample_event_logs.json → sample Windows Event Logs
-- analyzer.py → Python script to read and display logs
+## Features
+- Key features and functionalities of the project
 
-Usage:
-python3 analyzer.py
+## Installation / Usage
+- How to install and run the project
+- Example usage if applicable
+
+## Tech Stack
+- Python, Libraries, Tools used
+
+## Notes
+- Any special notes or warnings
